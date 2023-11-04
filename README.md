@@ -7,7 +7,7 @@
 ```
 
 ├── DB
-│   ├── CreatingTable
+│   ├── CreatingTable 생성한 테이블 
 │   │      ├── Bicycle
 │   │      ├── Broken
 │   │      ├── Employee
@@ -16,7 +16,7 @@
 │   │      ├── Station
 │   │      ├── Users_before
 │   │      └── Users_final
-│   ├── data
+│   ├── data 사용한 따릉이 데이터 
 │   │      ├── Bicycle.csv
 │   │      ├── Bicycle_final.csv
 │   │      ├── Bicycle_management.csv
@@ -28,7 +28,7 @@
 │   │      ├── Station_temp.csv
 │   │      ├── Users_before.csv
 │   │      └── Users_final.csv
-│   ├── Graphical Visualization
+│   ├── Graphical Visualization 쿼리문 처리 시각화 
 │   │      ├── 1st join_bicycle management department
 │   │      ├── 2nd join_final bicycle table
 │   │      ├── Query_1-1
@@ -39,7 +39,6 @@
 │   │      ├── Query_5
 │   │      ├── Query_6
 │   │      └── Query_7
-│   ├── CreatingTable
 │   ├── Query_adv
 │   ├── Query0
 │   ├── Query1
@@ -49,7 +48,7 @@
 │   ├── Query5
 │   ├── Query6
 │   ├── Query7
-│   └── fromdb.csv
+│   └── fromdb.csv 
 ├── Final_Presentation
 ├── Final_report
 └── README.md

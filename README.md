@@ -28,7 +28,7 @@
 │   │      ├── Station_temp.csv
 │   │      ├── Users_before.csv
 │   │      └── Users_final.csv
-│   ├── Graphical Visualization 쿼리문 처리 시각화 
+│   ├── Graphical Visualization 쿼리문 처리 시각화 자료
 │   │      ├── 1st join_bicycle management department
 │   │      ├── 2nd join_final bicycle table
 │   │      ├── Query_1-1
@@ -39,8 +39,8 @@
 │   │      ├── Query_5
 │   │      ├── Query_6
 │   │      └── Query_7
-│   ├── Query_adv
-│   ├── Query0
+│   ├── Query_adv 인덱싱 쿼리
+│   ├── Query0 질의 쿼리 0~7
 │   ├── Query1
 │   ├── Query2
 │   ├── Query3
@@ -49,8 +49,8 @@
 │   ├── Query6
 │   ├── Query7
 │   └── fromdb.csv 
-├── Final_Presentation
-├── Final_report
+├── Final_Presentation 프로젝트 발표 ppt
+├── Final_report 보고서 
 └── README.md
 
 
